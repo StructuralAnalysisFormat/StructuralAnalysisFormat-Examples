@@ -1,10 +1,10 @@
 ## Structural Analysis Format Examples
 
 ### 2.1.0
-[SAF_example_HOUSE_metric_ZYX_210.xlsx](https://github.com/dschuermans/testrepo/raw/master/examples/2.1.0/SAF_example_HOUSE_metric_ZYX_210.xlsx)
+[SAF_example_HOUSE_metric_ZYX_210.xlsx](examples/2.1.0/SAF_example_HOUSE_metric_ZYX_210.xlsx)
 
 ### 2.0.0
-[SAF_example_HOUSE_metric_ZYX_200.xlsx](https://github.com/dschuermans/testrepo/raw/master/examples/2.0.0/SAF_example_HOUSE_metric_ZYX_200.xlsx)
+[SAF_example_HOUSE_metric_ZYX_200.xlsx](examples/2.0.0/SAF_example_HOUSE_metric_ZYX_200.xlsx)
 
 ### 1.1.0
 _Coming soon_
