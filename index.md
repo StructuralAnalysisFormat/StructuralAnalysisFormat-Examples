@@ -1,5 +1,8 @@
 ## Structural Analysis Format Examples
 
+### 2.2.0
+[SAF_example_HOUSE_metric_ZYX_220.xlsx](examples/2.2.0/SAF_example_HOUSE_metric_ZYX_220.xlsx)
+
 ### 2.1.0
 [SAF_example_HOUSE_metric_ZYX_210.xlsx](examples/2.1.0/SAF_example_HOUSE_metric_ZYX_210.xlsx)
 
